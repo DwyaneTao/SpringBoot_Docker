@@ -19,8 +19,8 @@ public class DemoApplication {
         return "Hello world";
     }
 
-    @RequestMapping("/docker")
-    public String docker(){
-        return "hello docker";
-    }
+//    @RequestMapping("/docker")
+//    public String docker(){
+//        return "hello docker";
+//    }
 }
